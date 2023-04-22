@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>learning</module>
+        <module>springboot-mybatisflex</module>
     </modules>
 
     <properties>
